@@ -1,0 +1,12 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="E:/ide/node-v8.9.1-win-x64/node.exe" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+  </component>
+</application>
