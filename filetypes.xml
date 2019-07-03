@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="PROJECT" type="PLAIN_TEXT" />
-      <mapping pattern="sftpmanager_id_rsa_sit" type="PLAIN_TEXT" />
-      <mapping ext="wxml" type="XHTML" />
-    </extensionMap>
-  </component>
-</application>
